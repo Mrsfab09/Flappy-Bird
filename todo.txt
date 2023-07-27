@@ -1,2 +1,0 @@
-# Images
-https://github.com/russs123/flappy_bird
